@@ -1,0 +1,34 @@
+dept_no,dept_name,title,count
+d007,Sales,Staff,57
+d007,Sales,Senior Staff,198
+d008,Research,Engineer,2
+d008,Research,Senior Engineer,5
+d008,Research,Staff,20
+d008,Research,Senior Staff,66
+d006,Quality Management,Assistant Engineer,1
+d006,Quality Management,Technique Leader,9
+d006,Quality Management,Engineer,23
+d006,Quality Management,Senior Engineer,46
+d004,Production,Staff,1
+d004,Production,Senior Staff,3
+d004,Production,Assistant Engineer,17
+d004,Production,Technique Leader,33
+d004,Production,Engineer,61
+d004,Production,Senior Engineer,218
+d001,Marketing,Staff,20
+d001,Marketing,Senior Staff,92
+d003,Human Resources,Staff,21
+d003,Human Resources,Senior Staff,80
+d002,Finance,Staff,12
+d002,Finance,Senior Staff,53
+d005,Development,Staff,2
+d005,Development,Senior Staff,5
+d005,Development,Assistant Engineer,11
+d005,Development,Technique Leader,33
+d005,Development,Engineer,103
+d005,Development,Senior Engineer,255
+d009,Customer Service,Engineer,1
+d009,Customer Service,Technique Leader,2
+d009,Customer Service,Senior Engineer,5
+d009,Customer Service,Staff,22
+d009,Customer Service,Senior Staff,72
