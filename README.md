@@ -15,7 +15,7 @@ The employee data needed is only available in the form of 6 CSV files because th
 
 To get a database's layout, using Quick DBD ("Quick Database Diagrams"), the ERD (Entity Relationship Diagram) was created below. This diagram shows a map of the database and the flow of the data from one table to another.
 
-![](https://github.com/Aigerim-Zh/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png)
+![](https://github.com/Aigerim-Zh/Pewlett-Hackard-Analysis/blob/main/Resources/EmployeeDB.png)
 
 As can be seen in the ERD below, there are six tables in which different data is stored. Department and Employees tables have unique department and employee numbers, respectively. All other tables reference the department or employee or both in these tables. 
 
